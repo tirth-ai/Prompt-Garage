@@ -3,29 +3,25 @@
     "id": "challenger",
     "title": "Dodge Challenger Dyno Run",
     "description": "A matte black Dodge Challenger with gold alloys, flames bursting from exhaust, number plate \"TIRTH 11\".",
-    "prompt": "Cinematic shot of a matte black Dodge Challenger on a dyno run, gold alloy wheels gleaming under neon lights, orange and blue flames erupting from dual exhausts, custom number plate reading \"TIRTH 11\", dramatic studio lighting, smoke swirling on concrete floor, photorealistic, 8K, hyperdetailed.",
-    "image_url": "/static/images/challenger.png"
+    "prompt": "Cinematic shot of a matte black Dodge Challenger on a dyno run, gold alloy wheels gleaming under neon lights, orange and blue flames erupting from dual exhausts, custom number plate reading \"TIRTH 11\", dramatic studio lighting, smoke swirling on concrete floor, photorealistic, 8K, hyperdetailed."
   },
   {
     "id": "desert_car",
     "title": "Neon Desert Muscle Car",
     "description": "A classic muscle car parked in a neon-lit desert at midnight.",
-    "prompt": "Classic American muscle car parked on cracked desert highway at midnight, surrounded by towering glowing neon signs, reflections of purple and cyan light on the polished hood, Milky Way overhead, cinematic wide angle lens, photorealistic, ultra HD, 8K.",
-    "image_url": "/static/images/desert_car.png"
+    "prompt": "Classic American muscle car parked on cracked desert highway at midnight, surrounded by towering glowing neon signs, reflections of purple and cyan light on the polished hood, Milky Way overhead, cinematic wide angle lens, photorealistic, ultra HD, 8K."
   },
   {
     "id": "garage_king",
     "title": "Garage King",
     "description": "A lone mechanic silhouetted in a golden-lit garage surrounded by exotic cars.",
-    "prompt": "Silhouette of a mechanic standing in a vast industrial garage filled with exotic supercars, golden hour light streaming through floor-to-ceiling windows, oil-stained concrete floor reflecting the light, dramatic god rays, cinematic composition, hyperrealistic, 8K.",
-    "image_url": "/static/images/garage_king.png"
+    "prompt": "Silhouette of a mechanic standing in a vast industrial garage filled with exotic supercars, golden hour light streaming through floor-to-ceiling windows, oil-stained concrete floor reflecting the light, dramatic god rays, cinematic composition, hyperrealistic, 8K."
   },
   {
     "id": "hellcat",
     "title": "Hellcat Storm Chase",
     "description": "A Dodge Hellcat racing ahead of a tornado on an empty highway.",
-    "prompt": "Dodge Hellcat Widebody in blood red racing at 200mph on an empty midwest highway, monstrous tornado forming on the horizon, storm clouds lit by lightning, motion blur on wheels, dust and debris flying, dramatic low-angle shot, photorealistic, cinematic, 8K.",
-    "image_url": "/static/images/hellcat.png"
+    "prompt": "Dodge Hellcat Widebody in blood red racing at 200mph on an empty midwest highway, monstrous tornado forming on the horizon, storm clouds lit by lightning, motion blur on wheels, dust and debris flying, dramatic low-angle shot, photorealistic, cinematic, 8K."
   },
   {
     "id": "magical_wall_paint",
@@ -37,30 +33,30 @@
     "id": "birthday_speacil",
     "title": "BirthDay Speacil",
     "description": "You can change your outfit and name in the prompt",
-    "prompt": "This is my face and body. Please make a half-body portrait of me without changing my facial features and appearances, around 22 years old, with fair white skin and a beautiful body. he has a smiling softly with a closed-mouth smile (no teeth visible), while looking straight at the camera. HIS shiny, wavy black hair flows naturally. he is wearing an elegant shoulder black HOODIE with black Denims Jeans. he is standing gracefully slightly toward to left, holding a white birthday cake decorated with medium-sized straight golden candles that have spiral patterns, proportionate to the cake. And his right hand is posing gracefully under his chin. he wears a subtle necklace and a bracelet as het only accessory. The scene is set in professional indoor photo studio with plain background and warm golden hour sunlight casting dramatic shadow on plain wall ensuring the strong shadow of :\n\n\n\nPRANIT visible ratio 9:16\n\n\n\noverall cinematic tone"
+    "prompt": "This is my face and body. Please make a half-body portrait of me without changing my facial features and appearances, around 22 years old, with fair white skin and a beautiful body. he has a smiling softly with a closed-mouth smile (no teeth visible), while looking straight at the camera. HIS shiny, wavy black hair flows naturally. he is wearing an elegant shoulder black HOODIE with black Denims Jeans. he is standing gracefully slightly toward to left, holding a white birthday cake decorated with medium-sized straight golden candles that have spiral patterns, proportionate to the cake. And his right hand is posing gracefully under his chin. he wears a subtle necklace and a bracelet as het only accessory. The scene is set in professional indoor photo studio with plain background and warm golden hour sunlight casting dramatic shadow on plain wall ensuring the strong shadow of PRANIT visible ratio 9:16 overall cinematic tone"
   },
   {
     "id": "bmw_m3_drifting_down_the_hill",
     "title": "BMW M3 Drifting down the hill",
-    "description": "A BMW M3 drifting down the hill with a red helicopter. You can change the car and Helicopter by giving simple prompt",
+    "description": "A BMW M3 drifting down the hill with a red helicopter.",
     "prompt": "Main Idea : A BMW M3 G80 drifting down the hill and suddenly on a sharp turn it screamed and drifted insane and behind it a helicopter flying very near to the car. Description of BMW M3 G80: Wide body kit with matt black color and, red color of headlights with blinking sequence. Description of Helicopter: An expensive helicopter with the Red. Description of Background: Mountain ranges visible in the day time. Description of the sharp turn: A narrow sharp turn taking left and down slope. View angle: front of Car and the helicopter should be in one frame. Video type: realistic and cinematic."
   },
   {
     "id": "pilot_inside_you",
     "title": "Pilot Inside You",
-    "description": "Just upload your clean photo and see the magic. B2 Bomber pilot do you Know how it feels",
+    "description": "Just upload your clean photo and see the magic.",
     "prompt": "Use the image given and make the person in the photo wear the american air forces pilot uniform and an american fighter jet helmet in his left hand. On his eyes their is black stylish glasses and In background B2 Bomber. The whole scene is in a Hangar. ratio 9:16"
   },
   {
     "id": "best_pet_ever",
     "title": "Best Pet Ever",
-    "description": "Judt upload a clean photo of your and see your pet",
-    "prompt": "Create a realistic and emotional scene showing a man (use the provided image for accurate facial features) and a lion face-to-face in a moment of connection and respect. The man's eyes are closed, with a serene expression, while the lion gently rests its forehead and muzzle against his, conveying trust and a spiritual bond, kissing lion forehead.\nBoth are standing on ground covered\nin light snow, with snowflakes gently falling. The man wears a dark coat and hair slightly tousled by the wind, and the lion displays a thick, majestic mane. In the background, a cold, misty natural landscape with blurred mountains and gray tones reinforces the calm and powerful atmosphere.\nThe lighting is soft and diffuse, highlighting the textures of the skin, fur, and coat, creating a cinematic and poetic atmosphere.\nThe composition should convey friendship, courage, and harmony between man and nature.\nSuggested settings:\nStyle: Ultra-realistic, cinematic, 8K Lighting: Soft, diffuse, natural winter light\nCamera: Medium close-up, focus on expressions\nEmotion: Connection, respect, tranquility Setting: Falling snow, blurred background with mountains. Same prompt just add the face of this man in the photo and 9:16 ratio"
+    "description": "Just upload a clean photo of yours and see your pet",
+    "prompt": "Create a realistic and emotional scene showing a man (use the provided image for accurate facial features) and a lion face-to-face in a moment of connection and respect. The man's eyes are closed, with a serene expression, while the lion gently rests its forehead and muzzle against his, conveying trust and a spiritual bond. Both are standing on ground covered in light snow, with snowflakes gently falling. ratio 9:16"
   },
   {
     "id": "enjoy_waterfall_with_your_tiny",
     "title": "Enjoy Waterfall with Your Tiny",
-    "description": "Just upload one clean photo of yours and  enjoy the scene with your tiny",
+    "description": "Just upload one clean photo of yours and enjoy the scene.",
     "prompt": "Here is my image. Make a Indoor play seen were a small statue or another tiny man same like the image faces towards the man looking exactly same like in image the background should be good looking background like waterfall and roof should be wooden stacked and floor full of Gravel. Camera angle cinematic and behind the tiny man looking towards his big replica. Ratio 9:16"
   }
 ]
