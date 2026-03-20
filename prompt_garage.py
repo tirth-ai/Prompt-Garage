@@ -1623,4 +1623,5 @@ if __name__ == "__main__":
     print("  Running at  →  http://127.0.0.1:5000")
     print(f"  Dev password  →  {DEV_PASSWORD}")
     print(f"  Images folder →  {IMG_DIR}\n")
-    app.run(debug=True)
+   port = int(os.environ.get("PORT", 5000))
+app.run(host="0.0.0.0", port=port)
