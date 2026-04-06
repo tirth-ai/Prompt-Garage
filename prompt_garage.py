@@ -4,7 +4,7 @@ import os, base64, mimetypes, json, re
 app = Flask(__name__)
 
 # ── Developer password to unlock upload buttons ───────────────────────────────
-DEV_PASSWORD = "tirth11"   # ← change this to whatever you want
+DEV_PASSWORD = "dev.tirth"   # ← change this to whatever you want
 # ─────────────────────────────────────────────────────────────────────────────
 
 PROMPTS = [
